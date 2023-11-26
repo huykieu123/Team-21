@@ -1,0 +1,17 @@
+E:\bai cua ban Thao cutie a\PTTK\View\bin\Debug\View.exe.config
+E:\bai cua ban Thao cutie a\PTTK\View\bin\Debug\View.exe
+E:\bai cua ban Thao cutie a\PTTK\View\bin\Debug\View.pdb
+E:\bai cua ban Thao cutie a\PTTK\View\obj\Debug\View.csproj.AssemblyReference.cache
+E:\bai cua ban Thao cutie a\PTTK\View\obj\Debug\View.frmView.resources
+E:\bai cua ban Thao cutie a\PTTK\View\obj\Debug\View.Properties.Resources.resources
+E:\bai cua ban Thao cutie a\PTTK\View\obj\Debug\View.csproj.GenerateResource.cache
+E:\bai cua ban Thao cutie a\PTTK\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+E:\bai cua ban Thao cutie a\PTTK\View\obj\Debug\View.exe
+E:\bai cua ban Thao cutie a\PTTK\View\obj\Debug\View.pdb
+E:\bai cua ban Thao cutie a\PTTK\View\bin\Debug\EntityFramework.dll
+E:\bai cua ban Thao cutie a\PTTK\View\bin\Debug\EntityFramework.SqlServer.dll
+E:\bai cua ban Thao cutie a\PTTK\View\bin\Debug\EntityFramework.xml
+E:\bai cua ban Thao cutie a\PTTK\View\bin\Debug\EntityFramework.SqlServer.xml
+E:\bai cua ban Thao cutie a\PTTK\View\obj\Debug\View.csproj.CopyComplete
+E:\bai cua ban Thao cutie a\PTTK\View\bin\Debug\Full_Contract.cs
+E:\bai cua ban Thao cutie a\PTTK\View\obj\Debug\View.Add.resources

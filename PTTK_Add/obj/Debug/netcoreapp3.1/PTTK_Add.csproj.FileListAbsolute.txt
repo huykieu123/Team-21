@@ -1,0 +1,17 @@
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\bin\Debug\netcoreapp3.1\PTTK_Add.exe
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\bin\Debug\netcoreapp3.1\PTTK_Add.deps.json
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\bin\Debug\netcoreapp3.1\PTTK_Add.runtimeconfig.json
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\bin\Debug\netcoreapp3.1\PTTK_Add.runtimeconfig.dev.json
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\bin\Debug\netcoreapp3.1\PTTK_Add.dll
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\bin\Debug\netcoreapp3.1\PTTK_Add.pdb
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.frmAddProperty.resources
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.Properties.Resources.resources
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.csproj.GenerateResource.cache
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.GeneratedMSBuildEditorConfig.editorconfig
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.AssemblyInfoInputs.cache
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.AssemblyInfo.cs
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.csproj.CoreCompileInputs.cache
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.dll
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.pdb
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.genruntimeconfig.cache
+E:\bai cua ban Thao cutie a\PTTK\PTTK_Add\obj\Debug\netcoreapp3.1\PTTK_Add.csproj.AssemblyReference.cache

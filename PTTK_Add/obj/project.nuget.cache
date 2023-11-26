@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXd2U+iRUwnqwVHD3TnODUuEvl3AJoJWLbmOmtOX/YgP8u/QawFLeSVW7ZpcAyXpqL380RdLXQkolQf2oprANg==",
+  "success": true,
+  "projectFilePath": "D:\\Năm 3\\HK1\\phân tích thiết kế\\đồ án\\codeViewvaAdd\\bai cua ban Thao cutie a\\PTTK\\PTTK_Add\\PTTK_Add.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
